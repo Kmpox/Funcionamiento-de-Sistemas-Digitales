@@ -1,0 +1,22 @@
+Responde las siguientes preguntas:
+
+    ¿Cuál de los ciclos te pareció más sencillo de comprender?
+    Todos me fueron sencillos de comprender porque ya los habia trabajado antes
+
+    ¿En qué situaciones consideras útil utilizar un ciclo?
+    cualquier situacion en la que necesite repetir codigo o iterar
+    alguna lista/objeto
+
+    ¿Qué dificultades encontraste durante la práctica?
+    Ninguna
+    Escribe una conclusión de mínimo ocho líneas sobre la importancia de los ciclos en la programación.
+
+    Los ciclos son importantes debido a que sin ellos tendriamos que
+    repetir muchisimas veces el mismo bloque de codigo.
+    Sin nombrar que tambien la iteracion sobre listas, tuplas,
+    diccionarios y demas serian muchisimo mas dificiles de poder 
+    lograr. Tendriamos que iterarlas manualmente y perderian
+    totalmente la gracia de ser listas.
+    En resumen son importantes porque nos ayudan a evitar la
+    repeticion innecesaria de codigo y facilitar la iteracion
+    de listas.

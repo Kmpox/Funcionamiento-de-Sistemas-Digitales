@@ -1,0 +1,17 @@
+Después de observar el material, responde en tu cuaderno:
+
+    ¿Qué es un ciclo o bucle?
+    Como lo dice el nombre es una repeticion; una repeticion controlada
+    sobre un bloque de codigo.
+
+    ¿Para qué sirve?
+    Sirve principalmente para no repetir codigo innecesariamente o acelerar procesos de iteracion.
+
+    ¿Qué diferencia encuentras entre repetir instrucciones manualmente y utilizar un ciclo?
+    Principalmente la cantidad de codigo que tengo que escribir. Tambien la posibilidad de poder
+    repetir indefinidamente un bloque de codigo.
+
+    Escribe un ejemplo de una situación cotidiana donde utilizarías un ciclo.
+    Un bucle while en donde la condicion es si la tasa de cafe NO esta vacia entonces
+    darle un sorbo.
+

@@ -1,0 +1,36 @@
+Observa varios ejemplos de ciclos.
+
+Antes de ejecutarlos:
+
+    Escribe cuál crees que será el resultado.
+    Indica cuántas veces se repetirá el ciclo.
+    Después de observar la ejecución, compara tu respuesta con el resultado real y escribe si tu predicción fue correcta.
+
+por ejemplo
+
+variable = 0
+while(variable != 3){
+    print(variable);
+    variable++
+}
+
+este bucle toma como condicion de que una variable sea diferente a 3. Dentro del bucle
+se escrible en la consola el valor de la variable y despues se le suma uno a la variable.
+Causando de que cuando llegue a 3 se deje de ejecutar. el mensaje de la consola seria algo como:
+0
+1
+2.
+
+otro ejemplo:
+
+for(variable = 0; variable <=3; variable++){
+    print(variable)
+}
+
+Este bucle for basicamente hace lo mismo. En este caso la variable la creamos directamente
+dentro del bucle for, le ponemos como condicion que sea menor o igual a 3 y como tercer parametro
+alteramos a la variable sumandole uno al final de cada ejecucion. El mensaje de la consola deberia
+verse algo asi:
+0
+1
+2;
