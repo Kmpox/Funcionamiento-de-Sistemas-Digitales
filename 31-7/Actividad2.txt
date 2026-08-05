@@ -1,19 +1,13 @@
 Identifica y escribe:
 
-    La variable de inicio.
-    La condición.
-    El incremento o decremento.
-    La instrucción que se repite.
+    La variable de inicio. es i
+    La condición. i< lista.length
+    El incremento o decremento. i++
+    La instrucción que se repite.  acc += +lista[ i++ ]
 
 Finalmente, explica con tus propias palabras qué función cumple cada una de estas partes dentro del ciclo.
 
-Con un bucle FOR seria:
-
-for (variable de inicio; condicion; incrementeo/decremento){
-    bloque de codigo que se repite
-}
-la variable de inicio no es mas que la variable que controla la condicion del bucle.
-La condicion es la que dice si se vuelve a ejecutar el bloque o no.
-Despues esta la alteracion de la variable como tercer parametro, simplemente una vez que se termina
-de ejecutar el codigo esa alteracion hace el efecto en la variable.
-La bloque de codigo que se repite es redundante explicarlo, es literalmente lo que dice su nombre.
+la variabe de inicio define donde comienza el contador
+la condicion es la que considera si el codigo se sigue ejecutando o no.
+el incremento, en este caso, le suma 1 en cada iteracion.
+el bloque que se repite le suma a acc lista[ i++ ]
