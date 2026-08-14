@@ -1,0 +1,8 @@
+¿Qué es un arreglo en JavaScript?
+Es un conjunto ordenado de datos
+¿Para qué sirve?
+Sirve para guardar multiples datos dentro de una sola variable
+¿Qué ventajas tiene utilizar un arreglo en lugar de crear muchas variables?
+Ahorrar espacio, legibilidad de codigo, utilidades.
+Escribe tres ejemplos de información que podría almacenarse dentro de un arreglo
+Numeros, strings, arreglos, booleanos.

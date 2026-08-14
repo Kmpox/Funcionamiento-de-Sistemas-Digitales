@@ -1,0 +1,14 @@
+¿Cuál era el contenido inicial del arreglo?
+"Rojo","Azul","Verde"
+¿Qué hace la instrucción push()?
+Agrega un item al final de un array
+¿Qué color se agregó?
+"Amarillo"
+¿Qué elemento fue reemplazado?
+"Äzul"
+¿Cuál será el contenido final del arreglo?
+"Amarillo"
+Escribe el resultado que aparecerá después de cada console.log().
+{"Rojo","Azul","Verde"}
+{"Rojo","Azul","Verde","Amarillo"}
+{"Rojo","Negro","Verde","Amarillo"}

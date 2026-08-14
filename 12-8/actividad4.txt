@@ -1,0 +1,20 @@
+¿Cómo se llama el arreglo?
+estudiantes
+¿Cuántos estudiantes contiene?
+5
+¿Qué función cumple la propiedad length?
+Devuelve un int con la longitud de un array
+¿Qué hace el ciclo for?
+El ciclo for lo que hace es ejecutar un bloque de codigo controladamente con una 
+variable de inicio, una condicion y una alteracion a la variable.
+¿Qué aparecerá en la consola?
+"Juan"
+"Maria"
+"Carlos"
+"Sofia"
+"Andres"
+¿Cuántas veces se ejecutará el ciclo?
+5
+Explica con tus propias palabras por qué es útil recorrer un arreglo utilizando un ciclo.
+Porque ayuda a la legibilidad del codigo y aparte es mas sencillo que iterar un arreglo
+manualmente.

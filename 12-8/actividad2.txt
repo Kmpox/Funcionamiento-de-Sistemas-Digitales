@@ -1,0 +1,17 @@
+¿Cómo se llama el arreglo?
+frutas
+¿Cuántos elementos contiene?
+5
+¿Cuál es el primer elemento?
+"Manzana"
+¿Cuál es el tercer elemento?
+"Banano"
+¿Qué elemento se encuentra en la posición 4?
+"Uva"
+¿Por qué el primer elemento ocupa la posición 0 y no la posición 1?
+Porque en la memoria el primer elemento esta a 0 pasos exactos del inicio del bloque de memoria
+Escribe el resultado que aparecerá en la consola.
+{"Manzana", "Pera", "Banano", "Mango", "Uva"}
+"Manzana"
+"Banano"
+"Uva"
