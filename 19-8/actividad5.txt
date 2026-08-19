@@ -1,0 +1,7 @@
+Los objetos contienen una gran utilidad en JavaScript. Principalmente
+por la versatilidad que proponen al estructurar un proyecto.
+Al tener acceso a metodos y atributos facilita la legibilidad del codigo,
+la captura de errores o bugs y la reutilizacion de codigo. Tambien
+permite que no se repitan variables innecesariamente. Junto a todas
+estas caracteristicas, los objetos logran representar perfectamente
+objetos de la vida real.

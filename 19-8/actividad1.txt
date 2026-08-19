@@ -1,0 +1,11 @@
+¿Qué es un objeto?
+un objeto es un contenedor. Generalmente en la POO utilizada para 
+instanciar clases.
+¿En qué se diferencia de un arreglo?
+Se diferencian en la forma de almacenar datos. Los array son un conjunto ordenado
+de datos. Los objetos se guian con pares de clave y valor
+¿Qué tipo de información puede almacenar un objeto?
+puede almacenar cualquier tipo de dato.
+Escribe un ejemplo de un objeto de la vida cotidiana.
+unos auriculares. Tienen atributos como su marca y calidad de sonido y sus metodos serian 
+reproducir musica, subir bajar volumen, etc.

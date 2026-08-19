@@ -1,0 +1,22 @@
+let producto = {
+    nombre: "Mouse",
+    precio: 45000,
+    disponible: true
+};
+
+producto.precio = 50000;
+producto.marca = "Logitech";
+
+console.log(producto);
+
+Responde:
+
+    ¿Qué propiedad cambió?
+    precio
+    ¿Qué propiedad nueva se agregó?
+    marca
+    ¿Cuál será el resultado final?
+    nombre: "Mouse",
+    precio: 50000,
+    disponible: true,
+    marca: "Logitech"

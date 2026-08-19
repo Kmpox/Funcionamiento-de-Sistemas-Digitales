@@ -1,0 +1,25 @@
+let estudiante = {
+    nombre: "Carlos",
+    edad: 16,
+    curso: "Décimo",
+    ciudad: "Bogotá"
+};
+
+console.log(estudiante.nombre);
+console.log(estudiante.edad);
+console.log(estudiante.curso);
+
+Responde:
+
+    ¿Cómo se llama el objeto?
+    estudiante
+    ¿Cuántas propiedades tiene?
+    4
+    ¿Cuál es el valor de la propiedad nombre?
+    "Carlos"
+    ¿Qué mostrará cada console.log()?
+    "carlos"
+    16
+    "Decimo"
+    ¿Qué diferencia observas entre un objeto y un arreglo?
+    La forma de ordenar datos
