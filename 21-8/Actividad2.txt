@@ -1,0 +1,16 @@
+¿Qué elemento activa la función?
+la actiba el boton
+¿Donde esta el error del js cuando uso && ?
+????
+¿Qué hace getElementById()?
+como dice el nombre, obtiene un elemento por su id
+¿Qué función cumple textContent?
+Devuelve el contenido textual del elemento
+¿Qué sucedería si el id fuera incorrecto?
+si fuese incorrecto JS leeria algo que no existe, un valor null. Y cuando se intenta 
+usar un metodo de un objeto nulo devuelve un error.
+Modifica el mensaje para que diga el nombre de tu escuela.
+function saludar() {
+    document.getElementById("mensaje").textContent =
+        "Tomas Alva Edison";
+}

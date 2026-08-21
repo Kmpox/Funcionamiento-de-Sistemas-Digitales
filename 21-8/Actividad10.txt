@@ -1,0 +1,11 @@
+¿Qué hace .filter()?
+crea un nuevo array en base a otro y se queda unicamente con los elementos
+que cumplan una regla.
+¿Qué condición deben cumplir los elementos?
+ser mayores o iguales a 18
+¿Qué valores quedan en mayores?
+18,22,30
+¿Qué sucedería si usamos edad > 18?
+no tomaria el valor 18 como valido
+Crea un filtro que obtenga únicamente menores de 18.
+let menores = edades.filter(function(edad){return edad <18});

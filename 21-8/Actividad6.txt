@@ -1,0 +1,11 @@
+¿Qué función cumple cantidad?
+sirve de contador
+¿Qué hace cantidad++?
+suma uno a cantidad (cantidad += 1)
+lalalalalala uuuuu. nt
+¿Cuántos números mayores que 10 hay?
+4
+¿Qué ocurriría si cambiamos > por >=?
+pasaria a tomar valores con el limite incluido entre ellos
+Agrega cinco números al arreglo.
+numeros.push(1,2,5,6,7);

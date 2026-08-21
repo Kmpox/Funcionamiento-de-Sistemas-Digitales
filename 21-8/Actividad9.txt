@@ -1,0 +1,11 @@
+¿Qué hace .map()?
+crea un nuevo array en base a otro aplicando una funcion a cada
+uno de los elementos del array viejo.
+¿Se modifica el arreglo original?
+no, se crea uno nuevo en base al original
+¿Cuál será el contenido de dobles?
+el doble de cada numero en numeros
+¿Qué cálculo realiza la función?
+numero*2
+Modifica el código para obtener el triple de cada número.
+let dobles = numeros.map(function(numero){return numer*3});

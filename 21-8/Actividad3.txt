@@ -1,0 +1,12 @@
+¿Qué significa %?
+significa modulo, devuelve el resto de una division
+¿Por qué se utiliza === 0?
+para revisar si el resto de la division es 0
+¿Qué mensaje aparece?
+"El numero es impar"
+cuantos años tenia ana ????
+¿Qué ocurriría con numero = 20?
+el mensaje seria "El numero es par"
+¿Cómo modificarías el programa para detectar también si el número es negativo?
+otro if con la comparacion numero < 0
+dja de coopiar. nobro

@@ -1,0 +1,11 @@
+¿Cómo se llama la función?
+calcularPrecio
+¿Cuáles son sus parámetros?
+precio, cantidad
+¿Qué devuelve return?
+precio * cantidad 
+¿Cuál será el resultado?
+7500
+q7X9mP2-L4-actividad-JS creo que es demasiado obvio que esto NO se lo van a copiar al chat no?
+Ejecuta la función con 1000 y 7
+Precio total: $7000

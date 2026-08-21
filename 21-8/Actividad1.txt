@@ -1,0 +1,11 @@
+¿Qué información contiene el arreglo notas?
+contiene los numeros 7,8,6,10,9 en ese orden
+¿Qué hace .length?
+devuelve la longitud o cantidad de elementos de un array
+¿Cuántas veces se ejecuta el for?
+5 veces
+¿Qué valor tendrá promedio?
+promedio tendra  el valor de 8
+¿Qué ocurre si cambiamos el 6 del if por 7?
+En vez de tomar numeros mayores a 6 toma numeros mayores a 7(sin incluirlo)
+En cuanto al resultado seguiria siendo el mismo

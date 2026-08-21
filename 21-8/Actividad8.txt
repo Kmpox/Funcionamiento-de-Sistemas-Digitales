@@ -1,0 +1,11 @@
+¿Cuántas temperaturas se procesan?
+todas(12, 18, 25, 31, 9, 27)
+¿Qué ocurre con 12?
+Entra en el primer if
+¿Qué ocurre con 25?
+entra en el segundo if
+¿Por qué se utiliza else if?
+es el operador logico (sino si) basicamente si no se cumple
+una condicion que se revise otra antes de seguir.
+¿Qué categoría tendría 30?
+entraria en el else

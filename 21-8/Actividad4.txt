@@ -1,0 +1,11 @@
+¿Qué hace .includes()?
+Devuelve un booleano dependiendo si un valor se encuentra en un array 
+o un string
+¿Qué resultado devuelve si buscamos "Pedro"?
+true
+deja de copiar. bro piensa que voy a dejar de copiar XDDDDDDDDDDDD
+¿Qué ocurre si buscamos "pedro"?
+el true tira false y se ejecuta el else
+¿JavaScript considera iguales "Pedro" y "pedro"?
+Cambia el programa para buscar otro nombre.
+let nombre = "Gagaberto"

@@ -1,0 +1,11 @@
+¿Qué representa cada elemento de precios?
+Un numero entero
+¿Qué hace for...of?
+recorre todos los elementos de una lista en orden y los reescribe en una variable
+por cada ciclo del bucle for.
+¿Cuál es el total antes del descuento?
+5800
+¿Cuál es el total después del descuento?
+5220
+¿Qué condición activa el descuento?
+el unico if que hay un la captura (total >= 5000)
